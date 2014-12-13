@@ -1104,3 +1104,188 @@ add this line to the .bash_history
 4
 4
 
+cat .bashrc
+vim .bashrc
+cd /etc
+ls
+sudo vim rc.local 
+cd init.d
+ls
+sudo vim rc.local 
+rm starup.sh 
+sudo rm starup.sh 
+cd ..
+ls
+cd init0.d
+ls
+ls -la
+cd rc0.d
+ls
+ls -la
+ls
+sudo rm K20starup.sh 
+ls
+cd ..
+cd rc1.d
+ls
+ls -l /ect/init.d
+cd /
+ls -la /etc/init.d
+ls -l /etc/init.d
+ls -I /etc/init.d
+ls -i /etc/init.d
+cat cron
+ls -la
+cd /etc/
+ls
+cd init.d
+ls
+cd cro
+cd cron
+cat cron 
+crontab -e
+cat .bashrc
+cat ~/bashrc
+cat ./bashrc
+cat ~/.bashrc
+vim .bashrc
+cat ~/.bashrc
+vim ~/.bashrc
+ls
+cat ~/.bashrc
+crontab -e
+cd ~/RubymineProjects/
+ls
+cd shell_history/
+ls
+git reset --hard origin master
+git reset --hard origin/master
+git fetch
+git reset --hard origin/master
+ls
+cd scripts/
+ls
+vim bash_history_update.sh
+ls -la
+chmod 755 bash_history_update.sh 
+ls -la
+./bash_history_update.sh 
+cat ~/.bash_history 
+./bash_history_update.sh 
+cat ~/.bash_history 
+./bash_history_update.sh 
+cat ~/.bash_history
+vim ~/bash_history
+vim ~/.bash_history
+ls
+cd ..
+ls
+cd res/
+ls
+ls -la
+git init
+git remote add origin https://github.com/nino2armando/shell_history_files.git
+pwd
+git add . -A
+git commit -m "first backup"
+git push origin master
+git fetch
+git reset --hard origin/master
+vim dbresult.txt 
+cd ..
+ls
+cd scripts/
+ls
+./bash_history_update.sh 
+cat ../res/dbresult.txt 
+rm -rf ../res/dbresult.txt 
+./bash_history_update.sh 
+ls -la ../res
+ls
+ls -la
+cat ~/.bash_history
+sudo vim ~/.bash_history
+echo $HOME
+ls
+ls ~
+rm ~/shell_history_src/
+rm -rf ~/shell_history_src/ 
+ls ~
+rm -rf ~/shell_history_src/ 
+ls ~
+ls
+chmod 755 git_init.sh 
+ls
+vim git_init.sh 
+ls -la ~/shell_history_src/
+rm -rf ~/shell_history_src/
+ls -la ~/shell_history_src/
+rm -rv ~/shell_history_src/
+rm -rf ~/shell_history_src/
+ls -la ~/shell_history_src/
+ls -la ~
+ls -la ~/shell_history_src/
+cd ~
+mkdir test
+cd test/
+git init
+git remote add origin http://hello.com
+git init
+git remote add origin http://hello.com
+cd ..
+rm -rf test/
+cd RubymineProjects/
+ls
+cd shell_history/
+ls
+cd scripts/
+ls
+./git_init.sh 
+vim git_init.sh 
+./git_init.sh 
+vim git_init.sh 
+./git_init.sh 
+cat git_init.sh 
+vim git_init.sh 
+./git_init.sh 
+./git_init.sh http://hello.com
+vim git_init.sh 
+./git_init.sh http://hello.com
+rm -rf ~/shell_history_src/
+./git_init.sh 
+./git_init.sh test
+rm -rf ~/shell_history_src/
+cd ~/shell_history_src/
+ls
+vim history.txt 
+ls
+rm dbresult.txt 
+rm history.txt 
+ls -la
+cd ~/RubymineProjects/
+ls
+cd shell_history/
+git add . -A
+git commit -m "added all the required scripts and rake tasks"
+git push origin master
+ls
+cd scripts/
+ls
+mv update_bash_history.sh update_bash_history_login.sh 
+ls -la
+ls
+ls -la ~/shell_history_src/
+rm -rf ~/shell_history_src/
+ls -la ~/shell_history_src/
+cat ~/shell_history_src/history.txt 
+ls -la ~/shell_history_src/
+rm -rf ~/shell_history_src/
+ls -la ~/shell_history_src/
+cat ~/shell_history_src/history.txt 
+ls
+rm -rf ~/shell_history_src/
+ls -la ~/shell_history_src/
+ls
+this should be in .bash_history
+cat ~/.bash_history 
+source ~/.bash_history 
