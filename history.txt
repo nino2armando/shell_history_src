@@ -1292,3 +1292,4 @@ source ~/.bash_history
 =============================================
 this should be there after login
 this is new one that should be there
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%and this line$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
